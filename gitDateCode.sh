@@ -1,6 +1,6 @@
 #!/bin/bash
 # 统计某段时间内新增的代码行数 
-# 例如：sh gitDateCode.sh -p [path] -s [beginDate] -e [endDate]
+# 例如：sh gitDateCode.sh -p [path] -n [gitName] -s [beginDate] -e [endDate] 
 # sh gitDateCode.sh -p /Users/shuaishuai/zhushuaishuai/CodeStorage/git.evun/ADMP-repository -n shuaishuai.zhu
 # sh gitDateCode.sh -p /Users/shuaishuai/zhushuaishuai/CodeStorage/git.evun/ADMP-repository -n shuaishuai.zhu -s 2019-12-01 -e 2019-12-18
 
