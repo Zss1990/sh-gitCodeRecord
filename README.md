@@ -9,5 +9,5 @@
 `sh gitDateCode.sh -p [path] -n [gitName] -s [beginDate] -e [endDate]`
 
 #### 示例 
-`sh gitDateCode.sh -p /Users/.../CodeStorage/git.evun/ADMP-repository -n shuai`
-`sh gitDateCode.sh -p /Users/.../CodeStorage/git.evun/ADMP-repository -n shuai -s 2019-12-01 -e 2019-12-18`
+- `sh gitDateCode.sh -p /Users/.../CodeStorage/git.evun/ADMP-repository -n shuai`
+- `sh gitDateCode.sh -p /Users/.../CodeStorage/git.evun/ADMP-repository -n shuai -s 2019-12-01 -e 2019-12-18`
